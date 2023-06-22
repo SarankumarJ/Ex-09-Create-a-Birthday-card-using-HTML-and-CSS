@@ -1,4 +1,4 @@
-# Ex-10 Create a Birthday card using HTML and CSS
+# Ex-09 Create a Birthday card using HTML and CSS
 ## AIM:
 To write html & css code to create birthday card.
 
