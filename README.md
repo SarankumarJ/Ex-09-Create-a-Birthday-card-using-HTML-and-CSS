@@ -1,4 +1,4 @@
-# Ex-09-Create-a-Birthday-card-using-HTML-and-CSS
+# Ex-10 Create a Birthday card using HTML and CSS
 ## AIM:
 To write html & css code to create birthday card.
 
@@ -15,6 +15,8 @@ Link the css with html by link tag
 ### STEP 4:
 Verify the output by running the birthday card in any web browser.
 ## Program:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```html
 <!DOCTYPE html>
 <html>
